@@ -370,11 +370,3 @@ https://github.com/Yuvaraj7777
 
 This project is currently intended as a personal/portfolio project.
 ```
-
-### One important thing
-
-Don't put your actual **Clerk secret key, PostgreSQL password, or any API key** into this README. The example values above are placeholders.
-
-Also, I intentionally **didn't claim RAG, embeddings, vector databases, or autonomous agents**, because we shouldn't advertise functionality unless CortexOS actually implements it.
-
-If you want, we can now add this README to your existing GitHub repo **one step at a time**, without messing up the code you already pushed.
